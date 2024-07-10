@@ -1,0 +1,39 @@
+    1  ll
+    2  ls
+    3  mkdir ddocker
+    4  ls
+    5  cd ddocker/
+    6  nano docker-compose.yml
+    7  docker node ls
+    8  sudo su
+    9  sudo docker ps
+   10  ip a
+   11  docker swarm init
+   12  sudo docker swarm init
+   13  ip a
+   14  docker node ls
+   15  sudo docker node ls
+   16  sudo su
+   17  docker node ls
+   18  sudo su
+   19  ll
+   20  ls -l
+   21  mkdir pets
+   22  cd pets
+   23  cat > Pets
+   24  cat > Pack animals
+   25  cat > Pack_animals
+   26  ls -l
+   27  rm Pack
+   28  ls -l
+   29  cat Pets Pack_animals > HumanFriends.txt
+   30  ls -l
+   31  cat HumanFriends.txt
+   32  mv HumanFriends.txt Human_Friends.txt
+   33  cat HumanFriends.txt
+   34  mv Human_Friends.txt
+   35  cat Human_Friends.txt
+   36  ls -l
+   37  mkdir FriendsDirectory
+   38  mv Human_Friends.txt FriendsDirectory/
+
